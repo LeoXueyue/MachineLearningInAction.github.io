@@ -6,5 +6,5 @@
 优缺点：优点：精度高、对异常值不敏感、无数据输入假定。
        缺点：计算复杂度高、空间复杂度高。
        适用数据范围：数值型和标称型。
-常用的向量度量：欧式距离：二维公式：![Image](https://github.com/LeoXueyue/MachineLearningInAction.github.io/blob/master/Resources/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E4%B8%89%E7%BB%B4%E7%A9%BA%E9%97%B4%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F.png)
-                       三维公式：![Image]（https://github.com/LeoXueyue/MachineLearningInAction.github.io/blob/master/Resources/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E4%BA%8C%E7%BB%B4%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F.png)
+常用的向量度量：欧式距离：二维公式：![Image1](https://github.com/LeoXueyue/MachineLearningInAction.github.io/blob/master/Resources/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E4%B8%89%E7%BB%B4%E7%A9%BA%E9%97%B4%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F.png)
+                       三维公式：![Image2](https://github.com/LeoXueyue/MachineLearningInAction.github.io/blob/master/Resources/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E4%BA%8C%E7%BB%B4%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F.png)，
